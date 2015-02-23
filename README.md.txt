@@ -1,3 +1,3 @@
 ## README
 
-Hello world!
+Git is awesome and GitHub is awesome!
